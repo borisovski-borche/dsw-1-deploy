@@ -40,7 +40,7 @@
   "scripts": {
     "start": "webpack-dev-server --watch-content-base --open",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack build"
+    "build": "webpack"
   },
   "license": "ISC",
   "dependencies": {
